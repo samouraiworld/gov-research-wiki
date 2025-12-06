@@ -30,7 +30,7 @@ This repository publishes Obsidian notes as a static website using [Quartz](http
 
 The site automatically deploys to GitHub Pages when you push to the `main` branch. The GitHub Action workflow builds and deploys your notes.
 
-Your site will be available at: `https://davphla.github.io/test-obsidian/`
+Your site will be available at: `https://samouraiworld.github.io/gov-research-wiki/`
 
 ## Adding Notes
 
