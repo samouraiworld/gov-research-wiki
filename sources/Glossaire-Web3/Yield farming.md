@@ -1,0 +1,6 @@
+---
+title: "Yield farming [agriculture de rendement] : ensemble de mécanismes d’incitation mis en place par les protocoles DeFi, qui versent des récompenses (tokens, parts de frais, bonus) aux utilisateurs fournissant de la liquidité ou utilisant le protocole. Par extension, le terme désigne les stratégies consistant à déplacer ses fonds entre ces programmes d’incitation pour maximiser les rendements. Cette pratique présente des risques importants : perte de capital dans les liquidity pools (appelées impermanent loss), vulnérabilités des smart contracts, volatilité extrême des tokens de récompense, et effondrement brutal des rendements lorsque les incitations se tarissent."
+---
+
+# Yield farming [agriculture de rendement] : ensemble de mécanismes d’incitation mis en place par les protocoles DeFi, qui versent des récompenses (tokens, parts de frais, bonus) aux utilisateurs fournissant de la liquidité ou utilisant le protocole. Par extension, le terme désigne les stratégies consistant à déplacer ses fonds entre ces programmes d’incitation pour maximiser les rendements. Cette pratique présente des risques importants : perte de capital dans les liquidity pools (appelées impermanent loss), vulnérabilités des smart contracts, volatilité extrême des tokens de récompense, et effondrement brutal des rendements lorsque les incitations se tarissent.
+

@@ -1,14 +1,9 @@
+## À propos
+
+Ce glossaire n'est pas une fin en soi, mais un outil en chantier ouvert. La première version propose des définitions consolidées et transversales ; les versions futures seront enrichies de sections d'analyse (traductions Web3–coop, tensions conceptuelles, exemples), par nos soins et avec les contributions de la communauté.
+
+**Version actuelle :** V1.0 - Définitions sans rapprochements
+
 ---
-title: Welcome to My Notes
----
 
-# Welcome to My Digital Garden
-
-This is the home page of my Obsidian notes, published using Quartz.
-
-## My Notes
-
-- [[Welcome]] - Getting started with Obsidian
-- [[test/Hello]] - Test note
-
-Browse through my notes using the navigation or search functionality.
+*Glossaire développé dans le cadre des travaux de recherche du Samouraï Coop Research Lab*
