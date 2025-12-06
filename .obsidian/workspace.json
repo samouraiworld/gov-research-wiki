@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "8317f21186319720",
+    "type": "split",
+    "children": [
+      {
+        "id": "396cb29aeb1e488c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb0e452f4a7760ed",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f92aa6631be74fc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5bf9498575c581b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e69dedfacbc71020",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7231707f66e4d2d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aecf7e9f700a71ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ced378c84490466",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c71939d61378141",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48c55a5cfc028014",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "47e96742adaecaa5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3caf0cb56967905a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3e979085240d9679",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a686c64b22c3b66b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bb0e452f4a7760ed",
+  "lastOpenFiles": [
+    "sources/Glossaire-Web3/index.md",
+    "sources/Glossaire-Web3/Zero-knowledge proof - ZKP.md",
+    "sources/Glossaire-Web3/Z.md",
+    "sources/Glossaire-Web3/Yield farming.md",
+    "sources/Glossaire-Web3/Y.md",
+    "sources/Glossaire-Web3/Wrapped token.md",
+    "sources/Glossaire-Web3/Whitepaper.md",
+    "sources/Glossaire-Web3/Web3.md",
+    "sources/Glossaire-Web3/Wallet.md",
+    "sources/Glossaire-Web3/W.md",
+    "sources/Glossaire-Web3/Vesting.md",
+    "sources/Glossaire-Web3/Validator.md",
+    "sources/Glossaire-Web3/V.md",
+    "sources/Glossaire-Web3/UX.md",
+    "sources/Glossaire-Web3/U.md",
+    "sources/Glossaire-Web3/Treasury.md",
+    "sources/Glossaire-Web3/Tokenomics.md",
+    "sources/Glossaire-Web3/Token.md",
+    "sources/Glossaire-Web3/Token gating.md",
+    "sources/Glossaire-Web3/Timelock.md",
+    "sources/Glossaire-Web3/Temperature check.md",
+    "sources/Glossaire-Web3/Telegram.md",
+    "sources/Glossaire-Web3/T.md",
+    "sources/Glossaire-Web3/Staking.md",
+    "sources/Glossaire-Web3/Stablecoin.md",
+    "sources/Glossaire-Web3/Soulbound Token.md",
+    "sources/Glossaire-Web3",
+    "sources/Glossaire-Cooperatif"
+  ]
+}

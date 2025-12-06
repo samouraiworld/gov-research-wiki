@@ -1,7 +1,3 @@
----
-title: Web3 & Blockchain
----
-
 # Termes du Web3 & de la Blockchain
 
 - [[51 attack|51% attack [attaque 51 %] :

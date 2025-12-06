@@ -1,6 +1,3 @@
----
-title: "Sociocratie : méthode de gouvernance basée sur le consentement (absence d'objection raisonnable), l'élection sans candidat et l'organisation en cercles semi-autonomes."
----
+# Sociocratie
 
-# Sociocratie : méthode de gouvernance basée sur le consentement (absence d'objection raisonnable), l'élection sans candidat et l'organisation en cercles semi-autonomes.
-
+méthode de gouvernance basée sur le consentement (absence d'objection raisonnable), l'élection sans candidat et l'organisation en cercles semi-autonomes.

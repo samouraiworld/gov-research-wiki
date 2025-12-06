@@ -1,7 +1,3 @@
----
-title: Monde Coopératif
----
-
 # Termes du monde coopératif
 
 - [[A|A]]
