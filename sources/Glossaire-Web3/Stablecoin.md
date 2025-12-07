@@ -1,3 +1,12 @@
 # Stablecoin [cryptomonnaie stable]
 
-cryptomonnaie dont la valeur vise à suivre un actif dit « stable » (dollar, euro, or, panier d’actifs, etc.) afin de limiter la volatilité. La plupart des stablecoins sont adossés à des réserves : soit en monnaie « fiat » ou équivalents (dépôts bancaires, bons du Trésor), soit en cryptomonnaies sur-collatéralisées verrouillées dans des smart contracts. D’autres recourent à des mécanismes synthétiques (stratégies delta-neutrales, produits dérivés) pour maintenir la parité, mais reposent malgré tout sur des positions collatéralisées. Les expériences de « stablecoins algorithmiques », sans réserves vérifiables, ont jusqu’ici montré une forte fragilité (depeg, effondrements répétés) et relèvent davantage d’expérimentations de design monétaire que de véritables monnaies stables.
+## 1. Définition
+[[Cryptomonnaie]] dont la valeur vise à suivre un actif dit « stable » (dollar, euro, or, panier d’actifs, etc.) afin de limiter la volatilité. La plupart des stablecoins sont adossés à des réserves : soit en monnaie « fiat » ou équivalents (dépôts bancaires, bons du Trésor), soit en cryptomonnaies sur-collatéralisées verrouillées dans des [[Smart contracts [contrats intelligents]]]. D’autres recourent à des mécanismes synthétiques (stratégies delta-neutrales, produits dérivés) pour maintenir la parité, mais reposent malgré tout sur des positions collatéralisées. Les expériences de « stablecoins algorithmiques », sans réserves vérifiables, ont jusqu’ici montré une forte fragilité (depeg, effondrements répétés) et relèvent davantage d’expérimentations de design monétaire que de véritables monnaies stables.
+
+## 2. Rapprochement & Tensions
+
+## 3. Exemples concrets
+
+## 4. Risques & Opportunités
+
+## 5. Sources & Références
