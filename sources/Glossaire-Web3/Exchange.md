@@ -1,7 +1,7 @@
-# Exchange [plateforme d'échange]
+# Exchange | plateforme d'échange
 
 ## 1. Définition
-plateforme permettant d'acheter, vendre ou échanger des cryptomonnaies. Peut être centralisée (CEX, comme Coinbase) ou décentralisée ([[Dex [Bourse décentralisée]]], comme Uniswap).
+Bourse permettant d'acheter, vendre ou échanger des [[cryptomonnaies]] ou [[Token]]. Peut être centralisée (CEX, comme Coinbase) ou décentralisée ([Dex | Bourse décentralisée], comme Uniswap).
 
 ## 2. Rapprochement & Tensions
 

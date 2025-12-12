@@ -1,7 +1,12 @@
-# Fork [bifurcation]
+# Fork | bifurcation
 
 ## 1. Définition
-division d'une [[Blockchain [chaîne de blocs]]] en deux versions distinctes, souvent suite à un désaccord communautaire sur les règles du protocole ou l'orientation du projet. Peut être technique ([[Hard fork]], soft fork) ou social.
+
+Peut-être traduit par bifurcation, mais, même en français, cet anglicisme s’est imposé. Suivant la situation, il peut qualifier un événement (volontaire ou non) qui voit une [Blockchain | chaîne de blocs] se scinder en deux ou plusieurs versions distinctes (Fork de chaîne), avec autant de registres différents de transaction. 
+Il sert aussi généralement à qualifier les modifications protocolaires considérées comme importantes, pour les faire évoluer dans une direction souhaitée (ajout/suppression de fonctionnalités, changement d’architecture, etc.). On distingue alors les [Soft Fork]s des [Hard Fork]s, comme leur dimension plus ou moins contentieuse. 
+
+Ainsi, un Fork de chaîne peut se produire suivant un bug logiciel, qui induit que des clients logiciels différents ne suivent plus les mêmes règles protocolaires ; ou quand une modification de la [Blockchain | chaîne de blocs] est entreprise et non suivie par l’ensemble des acteurs, donnant lieu à un Hard Fork contentieux : les deux branches devenues non compatibles donnent naissance à deux [Blockchain | chaîne de blocs] autonomee, le Fork devenant un moyen politique d’émancipation et de recomposition d’acteurs autour de valeurs et d’intérêts différenciés.
+
 
 ## 2. Rapprochement & Tensions
 

@@ -1,7 +1,7 @@
-# Delegation [délégation de vote]
+# Delegation | délégation de vote
 
 ## 1. Définition
-Mécanisme par lequel un détenteur de tokens de gouvernance confie son pouvoir de vote à un autre membre (délégué) sans lui transférer la propriété des tokens. La délégation est en général révocable à tout moment. Elle permet d’augmenter la participation effective (via des “super-voters”) mais peut aussi concentrer le pouvoir.
+Mécanisme par lequel un détenteur de [[Governance token | token de gouvernance]] confie son pouvoir de vote à un autre membre (délégué) sans lui transférer la propriété des [[token]]s. La délégation est en général révocable à tout moment. Elle permet d’augmenter la participation effective (via des “super-voters”) mais peut aussi concentrer le pouvoir.
 
 ## 2. Rapprochement & Tensions
 
