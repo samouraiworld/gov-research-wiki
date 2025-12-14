@@ -1,4 +1,4 @@
-# Whitepaper [livre blanc]
+# Whitepaper | livre blanc
 
 ## 1. Définition
 document technique présentant la vision, l'architecture, le modèle économique et la feuille de route d'un projet [[Blockchain [chaîne de blocs]]]. Sert à convaincre les investisseurs et la communauté.

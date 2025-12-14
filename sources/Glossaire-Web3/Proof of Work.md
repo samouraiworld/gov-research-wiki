@@ -1,4 +1,4 @@
-# Proof of Work [preuve de travail]
+# Proof of Work (PoW) | preuve de travail
 
 ## 1. Définition
 mécanisme de consensus où les validateurs (mineurs) sont choisis en fonction de la quantité de puissance de calcul qu'ils dédient à résoudre des problèmes cryptographiques complexes pour valider les transactions. Très sécurisé mais énergivore. Utilisé par Bitcoin.

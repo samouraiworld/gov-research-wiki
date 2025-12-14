@@ -1,4 +1,4 @@
-# Gas fees [frais de transaction]
+# Gas fees | frais de transaction
 
 ## 1. Définition
 coût payé pour exécuter une transaction ou la fonction d'un [[smart contract]] sur une [[Blockchain | chaîne de blocs]]. Ces frais rémunèrent les [[Validator | validateur]] et régulent l'utilisation du réseau.

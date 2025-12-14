@@ -1,7 +1,7 @@
 
 ## 1. Définition
 
-Les clés cryptographiques, base de l'authentification dans les protocoles de [[Blockchain]], repose sur le chiffrement asymétrique qui permet de réserver des informations aux seules personnes disposant des clefs adéquates, en garantissant une identification réciproque¹. 
+L'authentification cryptographique au sein d'un protocole de [[Blockchain]], repose sur le chiffrement asymétrique qui permet de réserver des informations aux seules personnes disposant des clefs adéquates, en garantissant une identification réciproque¹. 
 Mise en oeuvre au sein des [[Wallet]], le processus permettant de générer un couple de clés cryptographiques utilise une courbe elliptique - l’algorithme ECDSA (Elliptic Curve Digital Signature Algorithm) pour Bitcoin. Cet algorithme dispose de procédures distinctes pour la signature et la vérification. La clé privée est utilisée pour signer les transactions. La clé publique, dérivée de la clé privée _via_ la courbe elliptique, est utilisée pour vérifier ces signatures. L’adresse Bitcoin est ensuite dérivée de la clé publique en appliquant les fonctions de hachage SHA-256 et RIPEMD-160, suivies du format d’encodage Base58Check pour faciliter l’utilisation et la vérification. Voir 
 
 ## 2. Rapprochement & Tensions

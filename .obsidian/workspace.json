@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "242dc8e30174df18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/Glossaire-Web3/Soft fork.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Soft fork"
-            }
-          },
-          {
             "id": "3c8ef838af0a0d14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/Glossaire-Web3/Consensus on-chain.md",
+                "file": "sources/Glossaire-Web3/Zero-knowledge proof - ZKP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Consensus on-chain"
-            }
-          },
-          {
-            "id": "36699866c1bb69b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sources/Glossaire-Web3/Clés cryptographiques.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clés cryptographiques"
+              "title": "Zero-knowledge proof - ZKP"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,34 +183,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "36699866c1bb69b2",
+  "active": "3c8ef838af0a0d14",
   "lastOpenFiles": [
-    "sources/Glossaire-Web3/Soft fork.md",
-    "sources/Glossaire-Web3/Clés cryptographiques.md",
-    "sources/Glossaire-Web3/Composability.md",
-    "sources/Glossaire-Web3/Consensus on-chain.md",
-    "sources/Glossaire-Web3/Liquidity pool.md",
-    "sources/Glossaire-Web3/AMM.md",
-    "sources/Glossaire-Web3/Algorithme de consensus.md",
-    "sources/Glossaire-Web3/51 attack.md",
-    "sources/Glossaire-Cooperatif/Lucrativité limitée.md",
-    "sources/Glossaire-Cooperatif/Une personne  une voix.md",
-    "sources/Glossaire-Cooperatif/Trop-perçu.md",
-    "sources/Glossaire-Cooperatif/Travail coopératif.md",
-    "sources/Glossaire-Cooperatif/Tiers-lieu.md",
-    "sources/Glossaire-Web3/Hard fork.md",
-    "sources/Glossaire-Cooperatif/Sociocratie.md",
+    "KYC [Know Your Customer.md",
+    "sources/Glossaire-Web3/Zero-knowledge proof - ZKP.md",
+    "sources/Glossaire-Web3/Yield farming.md",
+    "sources/Glossaire-Web3/Wrapped token.md",
+    "sources/Glossaire-Web3/Whitepaper.md",
+    "sources/Glossaire-Web3/Web3.md",
+    "sources/Glossaire-Web3/Wallet.md",
+    "sources/Glossaire-Web3/Timelock.md",
+    "sources/Glossaire-Web3/Vesting.md",
+    "sources/Glossaire-Web3/Validator.md",
+    "sources/Glossaire-Web3/UX.md",
+    "sources/Glossaire-Web3/Treasury.md",
+    "sources/Glossaire-Web3/Tokenomics.md",
+    "sources/Glossaire-Web3/Token gating.md",
+    "sources/Glossaire-Web3/Token.md",
+    "sources/Glossaire-Web3/Temperature check.md",
+    "sources/Glossaire-Web3/Telegram.md",
     "sources/Glossaire-Web3/Staking.md",
-    "Untitled.md",
-    "sources/Glossaire-Cooperatif/T.md",
-    "sources/Glossaire-Cooperatif/Agrément SCOP.md",
-    "sources/Glossaire-Web3/Multisig wallet.md",
-    "sources/Glossaire-Cooperatif/Coopérative.md",
-    "sources/Glossaire-Cooperatif/Utilité sociale.md",
-    "sources/Glossaire-Cooperatif/Agrément ESUS Entreprise Solidaire dUtilité Sociale.md",
-    "sources/Glossaire-Web3/Blockchain.md",
-    "Blockchain [chaîne de blocs.md",
-    "README.md",
+    "sources/Glossaire-Web3/Stablecoin.md",
+    "sources/Glossaire-Web3/Soulbound Token.md",
+    "sources/Glossaire-Web3/Soft fork.md",
+    "sources/Glossaire-Web3/Snapshot.md",
+    "sources/Glossaire-Web3/Smart contracts.md",
+    "sources/Glossaire-Web3/Slashing.md",
+    "sources/Glossaire-Web3/Signaling.md",
+    "sources/Glossaire-Web3/Scalabilité.md",
     "sources/Glossaire-Web3",
     "sources/Glossaire-Cooperatif",
     "quartz/static/og-image.png",
