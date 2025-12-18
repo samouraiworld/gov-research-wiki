@@ -10,3 +10,5 @@ Instance souveraine de décision d'une [[Coopérative]], réunissant l'ensemble 
 ## 4. Risques & Opportunités
 
 ## 5. Sources & Références
+
+[Loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000684004)

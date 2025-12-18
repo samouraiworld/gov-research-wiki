@@ -50,7 +50,7 @@
 - [[Réserves impartageables|Réserves impartageables]]
 - [[Révision coopérative|Révision coopérative]]
 - [[S|S]]
-- [[SCIC Société Coopérative dIntérêt Collectif|SCIC (Société Coopérative d'Intérêt Collectif)]]
+- [[SCIC Société Coopérative d'Intérêt Collectif|SCIC (Société Coopérative d'Intérêt Collectif)]]
 - [[SCOP Société Coopérative et Participative|SCOP (Société Coopérative et Participative)]]
 - [[Sociocratie|Sociocratie]]
 - [[Sociétaire|Sociétaire]]

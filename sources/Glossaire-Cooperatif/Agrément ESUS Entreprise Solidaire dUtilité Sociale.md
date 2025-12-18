@@ -10,3 +10,5 @@ reconnaissance officielle délivrée par l'État français aux entreprises de l'
 ## 4. Risques & Opportunités
 
 ## 5. Sources & Références
+
+https://www.economie.gouv.fr/entreprises/les-aides-et-financements-pour-developper-son-entreprise/economie-sociale-et-solidaire
