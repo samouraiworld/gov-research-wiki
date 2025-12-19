@@ -10,3 +10,5 @@ finalité d'une organisation de l'ESS, qui vise à répondre à des besoins soci
 ## 4. Risques & Opportunités
 
 ## 5. Sources & Références
+
+[# LOI n° 2014-856 du 31 juillet 2014 relative à l'économie sociale et solidaire](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029313296)
