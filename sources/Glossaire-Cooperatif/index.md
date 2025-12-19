@@ -1,7 +1,7 @@
 # Termes du monde coopératif
 
 - [[A|A]]
-- [[Agrément ESUS Entreprise Solidaire dUtilité Sociale|Agrément ESUS (Entreprise Solidaire d'Utilité Sociale)]]
+- [[Agrément ESUS Entreprise Solidaire d'Utilité Sociale|Agrément ESUS (Entreprise Solidaire d'Utilité Sociale)]]
 - [[Agrément SCOP|Agrément SCOP]]
 - [[Assemblée Générale AG|Assemblée Générale (AG)]]
 - [[Autogestion|Autogestion]]
@@ -14,7 +14,7 @@
 - [[Commissaire aux comptes|Commissaire aux comptes]]
 - [[Conseil d'Administration CA|Conseil d'Administration (CA)]]
 - [[Coopérative|Coopérative]]
-- [[Coopérative dactivité et demploi CAE|Coopérative d’activité et d’emploi (CAE)]]
+- [[Coopérative d'activité et d'emploi CAE|Coopérative d’activité et d’emploi (CAE)]]
 - [[D|D]]
 - [[Double qualité|Double qualité]]
 - [[Démocratie économique|Démocratie économique]]
