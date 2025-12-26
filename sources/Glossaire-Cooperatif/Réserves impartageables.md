@@ -10,3 +10,5 @@ fonds constitués par la [[Coopérative]] qui ne peuvent être distribués aux m
 ## 4. Risques & Opportunités
 
 ## 5. Sources & Références
+
+[Participation Economique des Membres](https://ica.coop/fr/coop%C3%A9ratives/identite-cooperative)

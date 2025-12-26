@@ -10,3 +10,5 @@ principe coopératif selon lequel l'adhésion et la démission, sont ouverte à 
 ## 4. Risques & Opportunités
 
 ## 5. Sources & Références
+
+[Adhésion Volontaire et Ouverte à tous](https://ica.coop/fr/coop%C3%A9ratives/identite-cooperative)

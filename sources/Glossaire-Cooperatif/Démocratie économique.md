@@ -10,3 +10,5 @@ principe selon lequel les décisions économiques d'une organisation doivent êt
 ## 4. Risques & Opportunités
 
 ## 5. Sources & Références
+
+[Contrôle Démocratique exercé par les Membres](https://ica.coop/fr/coop%C3%A9ratives/identite-cooperative)

@@ -12,3 +12,5 @@ montant total des apports  financiers des [[Sociétaire]]s d'une [[Coopérative]
 ## 5. Sources & Références
 
 [# Loi n° 78-763 du 19 juillet 1978 portant statut des sociétés coopératives de production](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000339242)
+
+[Participation Economique des Membres](https://ica.coop/fr/coop%C3%A9ratives/identite-cooperative)
