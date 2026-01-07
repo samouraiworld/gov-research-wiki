@@ -10,3 +10,4 @@ ressources partagées, gérées collectivement par une communauté selon des rè
 ## 4. Risques & Opportunités
 
 ## 5. Sources & Références
+

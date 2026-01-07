@@ -12,6 +12,6 @@ Reconnaissance administrative du statut de [[SCIC Société Coopérative d'Inté
 
 Replier
 
-[Titre II ter : La société coopérative d'intérêt collectif. Articles 19 quinquies à 19 sexdecies A](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029321359)
+[Loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération - Titre II ter : La société coopérative d'intérêt collectif. Articles 19 quinquies à 19 sexdecies A](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029321359)
 
 https://www.les-scic.coop/system/files/inline-files/circulaire_Scic.pdf
